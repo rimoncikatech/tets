@@ -91,7 +91,7 @@ export const SectionOne = () => {
           />
           <Image
             className="sm:hidden"
-            src="custom-cards@2x.png"
+            src="/custom-cards@2x.png"
             width={262}
             height={146}
             alt="custom cards"
@@ -283,7 +283,7 @@ export const SectionOne = () => {
         <object type="image/svg+xml" data="/assets/landing/SVG/diverse-design.svg" className="hidden sm:block absolute w-[283px] h-[377px] z-20 left-[280px] sm:top-[300px] x:left-[380px] xl:hidden"></object>
         <Image
           className="absolute top-[300px] left-[78px] z-20 sm:hidden"
-          src="/assets/landing/home/devices@2x.png"
+          src="/devices@2x.png"
           width={254}
           height={339}
           alt="devices image"
